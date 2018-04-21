@@ -44,7 +44,9 @@ hr {
   border-color: rgb(147, 166, 160);
 }
 
-#about a:
+#about a:link{
+  
+}
 
 .image {
   border-width: 5px;
