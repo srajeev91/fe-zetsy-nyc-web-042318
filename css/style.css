@@ -28,8 +28,9 @@ header h1{
 }
 
 hr {
-  font-size: 0.5px;
+  font-size: 1px;
   margin-bottom: 5px;
+  color: rgb(147, 166, 160);
 }
 
 .necklace {
