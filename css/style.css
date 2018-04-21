@@ -44,6 +44,11 @@ hr {
   border-color: rgb(147, 166, 160);
 }
 
+footer {
+	float: right;
+	font-size: 10px;
+	color: rgb(147, 166, 160);
+}
 
 
 
