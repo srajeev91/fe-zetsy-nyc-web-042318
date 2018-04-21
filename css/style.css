@@ -45,6 +45,8 @@ hr {
 }
 
 .image {
+  border-width: 5px;
+  border-style: solid;
   border-color: rgb(203, 203, 203);
 }
 
