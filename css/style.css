@@ -18,3 +18,73 @@ body {
 }
 
 /* Write all remaining styles here */
+
+header h1{
+  font-family: "Baskerville", serif;
+  font-weight: normal;
+  font-size: 80px;
+  color: rgb(147, 166, 160);
+  margin-bottom: 5px;
+  padding-bottom: 10px;
+  border-style: solid;
+  border-width: 0px 0px 0.25px 0px;
+  border-color: rgb(203, 203, 203);
+}
+
+hr {
+  font-size: 1px;
+  font-weight: normal;
+  margin-bottom: 5px;
+  color: rgb(147, 166, 160);
+}
+
+.necklace {
+  border-width: 5px;
+  border-style: solid;
+  border-color: rgb(147, 166, 160);
+}
+
+#about a:link{
+  text-decoration: none;
+}
+
+.image {
+  border-width: 5px;
+  border-style: solid;
+  border-color: rgb(203, 203, 203);
+  float: left;
+  margin: 0px 5px 0px 0px;
+}
+
+.image img:hover {
+  border-width: 5px;
+  border-style: solid;
+  border-color: rgb(113, 129, 124);
+  margin: -5px;
+}
+
+h3 {
+  color: rgb(119, 133, 128);
+  font-size: 32px;
+}
+
+footer {
+	float: right;
+	font-size: 13px;
+	color: rgb(113, 129, 124);
+}
+
+.clearfix:after{
+	content:".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	height: 0;
+	line-height: 0;
+}
+
+
+
+
+
+
