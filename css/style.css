@@ -26,7 +26,7 @@ header h1{
   color: rgb(147, 166, 160);
   margin-bottom: 0;
   border-style: solid;
-  border-width: 0 0 0.5 0;
+  border-width: 0px 0px 0.5px 0px;
 }
 
 hr {
