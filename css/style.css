@@ -44,6 +44,10 @@ hr {
   border-color: rgb(147, 166, 160);
 }
 
+.image {
+  margin-bottom: 10px;
+}
+
 h3 {
   color: rgb(119, 133, 128);
   font-size: 32px;
