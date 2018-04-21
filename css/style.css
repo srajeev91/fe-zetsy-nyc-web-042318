@@ -27,6 +27,10 @@ header h1{
   margin-bottom: 0;
 }
 
+hr {
+  size: 1px;
+}
+
 .necklace {
   border-width: 5px;
   border-style: solid;
