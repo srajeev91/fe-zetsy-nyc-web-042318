@@ -45,7 +45,7 @@ hr {
 }
 
 #about a:link{
-  
+  text-decoration: none;
 }
 
 .image {
