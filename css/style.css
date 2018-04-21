@@ -53,7 +53,10 @@ hr {
 }
 
 .image img:hover {
+  border-width: 5px;
+  border-style: solid;
   border-color: rgb(113, 129, 124);
+  margin: -5px;
 }
 
 h3 {
