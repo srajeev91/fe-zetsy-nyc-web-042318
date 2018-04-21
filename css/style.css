@@ -25,6 +25,7 @@ header h1{
   font-size: 80px;
   color: rgb(147, 166, 160);
   margin-bottom: 5px;
+  padding-bottom: 5px;
   border-style: solid;
   border-width: 0px 0px 0.25px 0px;
   border-color: rgb(203, 203, 203);
